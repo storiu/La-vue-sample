@@ -1,0 +1,27 @@
+# Images uploaded by users
+public/images/avatars
+public/images/posts
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Laravel 5 & Lumen specific
+public/storage
+public/hot
+public_html/storage
+public_html/hot
+
+# Laravel
+/storage/*.key
+/vendor
+.env
+Homestead.json
+Homestead.yaml
+.phpunit.result.cache
+/.vagrant
+
+# Generated (Laravel Mix) JS/CSS resources
+public/css
+public/js
